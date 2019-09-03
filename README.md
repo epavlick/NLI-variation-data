@@ -1,7 +1,7 @@
 # NLI-variation-data
 
 This directory contains the data used in the below paper.
-If you have any question, please contact```ellie_pavlick@brown.edu```
+If you have any question, please contact ```ellie_pavlick@brown.edu```.
 
 ```
 @article{pavlick-and-kwiatkowski-2019,
